@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "ENGiNE DIAGNOSTIC",
+      "price": 300,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam, minima? Delectus soluta omnis praesentium laborum possimus veritatis quidem facilis provident.",
+      "img": "https://i.ibb.co/BwKkdR7/Mechanic-car-service-auto-garage-in-automotive-mobile-center-Technician-workshop-repair-engine-motor.jpg"
+    },
+    {
+      "id": 2,
+      "name": "WHEEL ALIGNMENT",
+      "price": 100,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam, minima? Delectus soluta omnis praesentium laborum possimus veritatis quidem facilis provident.",
+      "img": "https://i.ibb.co/BjWgF2M/Car-mechanic-man-at-the-garage-fixing-the-engine-Hands-of-car-mechanic-with-wrench-in-garage-Close-u.jpg"
+    },
+    {
+      "id": 3,
+      "name": "OIL CHANGING",
+      "price": 150,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam, minima? Delectus soluta omnis praesentium laborum possimus veritatis quidem facilis provident.",
+      "img": "https://i.ibb.co/C9Z9fbN/Portrait-of-happy-black-mechanic-working-in-auto-repair-shop-and-looking-at-camera.jpg"
+    },
+    {
+      "id": 4,
+      "name": "BRAKE REPARING",
+      "price": 160,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam, minima? Delectus soluta omnis praesentium laborum possimus veritatis quidem facilis provident.",
+      "img": "https://i.ibb.co/Qc4P573/Vehicle-Maintenance-Check-List-Car-Mechanic-with-Documentation-in-Hand-Automotive-Industry-Theme.jpg"
+    },
+    {
+      "id": 5,
+      "name": "WASH AND GLASSING",
+      "price": 100,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam, minima? Delectus soluta omnis praesentium laborum possimus veritatis quidem facilis provident.",
+      "img": "https://i.ibb.co/n3rBx56/Woman-repairing-a-car-in-auto-repair-shop.jpg "
+    },
+    {
+      "id": 6,
+      "name": "COMPLETE ANALYSIS",
+      "price": 300,
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam, minima? Delectus soluta omnis praesentium laborum possimus veritatis quidem facilis provident.",
+      "img": "https://i.ibb.co/dbdfTSD/A-smiling-garage-owner-stands-looking-to-camera-from-his-busy-auto-repair-shop.jpg"
+    }
+  ]
